@@ -1,0 +1,25 @@
+{
+  "name": "berries",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Sterjakov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterjakovigor/berries.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "bugs": {
+    "url": "https://github.com/sterjakovigor/berries/issues"
+  },
+  "homepage": "https://github.com/sterjakovigor/berries#readme",
+  "description": "Set of utilities",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
