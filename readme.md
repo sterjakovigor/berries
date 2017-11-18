@@ -13,9 +13,13 @@ npm i berries
 ```javascript
 const B = require('berries')
 
-const items = B.flatten([1,[2,3,[4]],5]) 
+const items = B.flatten([1,[2,3,[4]],5])
 // => [1,2,3,4,5]
 ```
+
+[More examples here](https://github.com/sterjakovigor/berries/tree/master/lib/__tests)
+
+### utils
 
 - asyncMap
 - capitalize
@@ -37,5 +41,3 @@ const items = B.flatten([1,[2,3,[4]],5])
 - range
 - times
 - union
-
-[How to use see here](https://github.com/sterjakovigor/berries/tree/master/lib/__tests)
