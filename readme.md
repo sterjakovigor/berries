@@ -2,6 +2,10 @@
 
 ![alt tag](https://raw.githubusercontent.com/sterjakovigor/berries/master/logo.jpg)
 
+```bash
+npm i berries
+```
+
 - asyncMap
 - capitalize
 - uncapitalize
@@ -23,4 +27,4 @@
 - times
 - union
 
-[How to use see here](https://github.com/sterjakovigor/berries/lib/__tests)
+[How to use see here](https://github.com/sterjakovigor/berries/tree/master/lib/__tests)
