@@ -2,8 +2,19 @@
 
 ![alt tag](https://raw.githubusercontent.com/sterjakovigor/berries/master/logo.jpg)
 
+### how to install
+
 ```bash
 npm i berries
+```
+
+### how to use
+
+```javascript
+const B = require('berries')
+
+const items = B.flatten([1,[2,3,[4]],5]) 
+// => [1,2,3,4,5]
 ```
 
 - asyncMap
