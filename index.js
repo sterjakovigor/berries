@@ -18,4 +18,5 @@ module.exports = {
   compose:        require('./lib/compose.js'),
   htmlQuotes:     require('./lib/htmlQuotes.js'),
   nth:            require('./lib/nth.js'),
+  move:           require('./lib/move.js'),
 }
