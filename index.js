@@ -19,4 +19,5 @@ module.exports = {
   htmlQuotes:     require('./lib/htmlQuotes.js'),
   nth:            require('./lib/nth.js'),
   move:           require('./lib/move.js'),
+  insert:         require('./lib/insert.js'),
 }
