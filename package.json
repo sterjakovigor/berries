@@ -9,15 +9,15 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sterjakovigor/berries.git"
+    "url": "git+https://github.com/sterzhakov/berries.git"
   },
   "keywords": [
     "utils"
   ],
   "bugs": {
-    "url": "https://github.com/sterjakovigor/berries/issues"
+    "url": "https://github.com/sterzhakov/berries/issues"
   },
-  "homepage": "https://github.com/sterjakovigor/berries#readme",
+  "homepage": "https://github.com/sterzhakov/berries#readme",
   "description": "Set of utilities",
   "devDependencies": {
     "jasmine": "^2.5.3"

@@ -20,4 +20,5 @@ module.exports = {
   nth:            require('./lib/nth.js'),
   move:           require('./lib/move.js'),
   insert:         require('./lib/insert.js'),
+  range:          require('./lib/range.js'),
 }

@@ -1,6 +1,6 @@
 # Berries
 
-![alt tag](https://raw.githubusercontent.com/sterjakovigor/berries/master/logo.jpg)
+![alt tag](https://raw.githubusercontent.com/sterzhakov/berries/master/logo.jpg)
 
 ### how to install
 
@@ -17,7 +17,7 @@ const items = B.flatten([1,[2,3,[4]],5])
 // => [1,2,3,4,5]
 ```
 
-[More examples here](https://github.com/sterjakovigor/berries/tree/master/lib/__tests)
+[More examples here](https://github.com/sterzhakov/berries/tree/master/lib/__tests)
 
 ### utils
 
