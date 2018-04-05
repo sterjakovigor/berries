@@ -1,5 +1,6 @@
 module.exports = {
   asyncMap:       require('./lib/asyncMap.js'),
+  asyncCompose:   require('./lib/asyncCompose.js'),
   clone:          require('./lib/clone.js'),
   flatten:        require('./lib/flatten.js'),
   include:        require('./lib/include.js'),
