@@ -22,4 +22,5 @@ module.exports = {
   move:           require('./lib/move.js'),
   insert:         require('./lib/insert.js'),
   range:          require('./lib/range.js'),
+  unique:         require('./lib/unique.js'),
 }
